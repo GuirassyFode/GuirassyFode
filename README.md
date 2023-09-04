@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there Fode Guirassy👋
+<img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GuirassyFode&show_icons=true&theme=radical"/>
 
-<!--
-**GuirassyFode/GuirassyFode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuirassyFode&layout=compact"/>
 
-Here are some ideas to get you started:
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=java-dot-js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Python-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
