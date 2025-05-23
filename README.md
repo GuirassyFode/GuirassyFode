@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name] — a 🌟 Data Engineering Enthusiast
+👋 Hi there! I'm Fode Guirassy — a 🌟 Data Engineering Enthusiast
 🧠 Learning · 🛠️ Building · 📈 Sharing
 
 🚀 About Me
