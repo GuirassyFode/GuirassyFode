@@ -1,6 +1,6 @@
 # Hi there, I'm Fode Guirassy 👋
 
-## 🚀 Data & AI Engineer | Azure Certified | Building Scalable Data Pipelines
+## 🚀 Data & AI Engineer | Azure DP-203 In Progress | Building Scalable Data Pipelines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fode-guirassy-83b089229/)
 [![GitHub followers](https://img.shields.io/github/followers/GuirassyFode?style=for-the-badge&logo=github)](https://github.com/GuirassyFode)
@@ -51,9 +51,9 @@ I'm a **Data & AI Engineer** passionate about designing and building **end-to-en
 
 ---
 
-## 🏆 Certifications
+## 🎯 Certifications & Learning
 
-- 🎓 **Microsoft Azure Data Engineer Associate (DP-203)**
+- 📚 **Microsoft Azure Data Engineer Associate (DP-203)** — *In Progress*
 
 ---
 
